@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714190931174",
+    "project_id": "aop-part3-chapter01-7735f",
+    "storage_bucket": "aop-part3-chapter01-7735f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714190931174:android:12eaa7e96048f4eb5a2727",
+        "android_client_info": {
+          "package_name": "woojin.project.android.aop_part3_chapter01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714190931174-lllpfu0lq3h6av2h2hgme1ie7l6qq6j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcOAENdBtfaG5dU4ETI_LtMXrEws-H8Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714190931174-lllpfu0lq3h6av2h2hgme1ie7l6qq6j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
